@@ -1,4 +1,4 @@
 bol
 ===
 
-bol (bark out loud ) is a place where anyone can share any information anonymously. Speak anything about any event, person or technology. 'bol' is free from any kind of censorship.  
+bol is just a temporary name give to our coming application. Just wait and we will provide complete information about it.
