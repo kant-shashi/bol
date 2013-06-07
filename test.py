@@ -31,29 +31,16 @@ from pprint import pprint
 # cb.delete(key)
 
 c = Couchbase.connect(bucket='default')
-c.set('user::count',100)
+c.set('user::count', 100)
 c.incr('user::count')
-c.set('foo','aaa')
-c.append('foo','bbb')
+c.set('foo', 'aaa')
+c.append('foo', 'bbb')
 # x=c.get('foo')
 # print x
-c.set('name','shashi kant')
-user={
-    'name':'shashi kant',
-    'roll':462,
-    'college':'nit jamshedpur'
+c.set('name', 'shashi kant')
+user = {
+    'name': 'shashi kant',
+    'roll': 462,
+    'college': 'nit jamshedpur'
 }
-c.set('user',user)
-
-
-
-
-
-
-
-
-
-
-
-
-
+c.set('user', user)
