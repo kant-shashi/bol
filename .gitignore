@@ -1,5 +1,4 @@
-rate.json
-.ropeproject
 *~
 *#
-
+.ropeproject/*
+/doc/*
