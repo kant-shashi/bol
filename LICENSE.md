@@ -1,5 +1,8 @@
 Copyright (c) 10# Inc.
+=============
 
+> This  application (bol) is licensed under 10#GL (10# General License)
+> Read the license [here][1]
 
 
 The above copyright notice and this permission notice shall be included in all
@@ -12,3 +15,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+[1]: http://www.tenhash.com/license/gl
