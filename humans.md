@@ -3,10 +3,11 @@
 
 # TEAM
 ------------
+   
     Shashi Kant
-    [ http://blog.tenhash.com][1]
-    [http://www.twitter.com/shashikant_10][2]
-    [https://github.com/kant-shashi][3]
+    [http://blog.tenhash.com] (http://blog.tenhash.com )
+    [http://www.twitter.com/shashikant_10] (http://www.twitter.com/shashikant_10)
+    [https://github.com/kant-shashi] (https://github.com/kant-shashi)
 
 # THANKS
 
@@ -19,6 +20,6 @@
     Normalize.css, jQuery, Modernizr
     Python, Flask, Jinja, Couchbase
 
-[1]: http://blog.tenhash.com/    "shashi kant's blog"
+<!-- [1]: http://blog.tenhash.com/    "shashi kant's blog"
 [2]: http://www.twitter.com/shashikant_10/    "twitter"
-[3]: https://github.com/kant-shashi/    "github"
+[3]: https://github.com/kant-shashi/    "github" -->
