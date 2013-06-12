@@ -5,8 +5,10 @@
 ------------
    
 Shashi Kant
-I am computer science student at National Institute of Technology, Jamshedpur, India.
-[Shashi kant's blog] [1] <br>
+I am computer science student at National Institute of Technology, Jamshedpur, India. 
+<br>
+Reach me at <br>
+[blog] [1] <br>
 [Twitter] [2] <br>
 [Github] [3] <br>
 
