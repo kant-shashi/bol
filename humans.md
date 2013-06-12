@@ -6,9 +6,9 @@
    
 Shashi Kant
 I am computer science student at National Institute of Technology, Jamshedpur, India.
-[Shashi kant's blog] [1]
-[Twitter] [2]
-[Github] [3]
+[Shashi kant's blog] [1] <br>
+[Twitter] [2] <br>
+[Github] [3] <br>
 
 # THANKS
 
