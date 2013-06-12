@@ -4,10 +4,11 @@
 # TEAM
 ------------
    
-    Shashi Kant
-    http://blog.tenhash.com
-    http://www.twitter.com/shashikant_10
-    https://github.com/kant-shashi
+Shashi Kant
+I am computer science student at National Institute of Technology, Jamshedpur, India.
+[Shashi kant's blog] [1]
+[Twitter] [2]
+[Github] [3]
 
 # THANKS
 
@@ -20,7 +21,6 @@
     Normalize.css, jQuery, Modernizr
     Python, Flask, Jinja, Couchbase
 
-<!-- 
 [1]: http://blog.tenhash.com/    "shashi kant's blog"
 [2]: http://www.twitter.com/shashikant_10/    "twitter"
-[3]: https://github.com/kant-shashi/    "github" -->
+[3]: https://github.com/kant-shashi/    "github"
